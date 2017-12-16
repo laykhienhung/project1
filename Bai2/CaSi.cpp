@@ -1,5 +1,6 @@
 #include "CaSi.h"
 
+// Tai Lay: lam j day?
 // them commennt 
 void CaSi::Nhap()
 {
