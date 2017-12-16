@@ -1,5 +1,6 @@
 #include "CaSi.h"
 
+// them commennt 
 void CaSi::Nhap()
 {
 	NgheSi::Nhap();
