@@ -1,7 +1,5 @@
 #include "CaSi.h"
 
-
-
 void CaSi::Nhap()
 {
 	NgheSi::Nhap();
